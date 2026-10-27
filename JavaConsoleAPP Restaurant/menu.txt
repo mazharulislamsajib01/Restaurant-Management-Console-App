@@ -1,0 +1,7 @@
+1,1,150.0,Chicken Soup
+2,1,280.0,Chicken Biryani
+3,1,50.0,Coca Cola
+1,2,120.0,French Fries
+2,2,320.0,Beef Curry with Rice
+3,2,80.0,Mango Juice
+2,3,80.0,Dal Vaat
