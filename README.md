@@ -192,7 +192,7 @@ Every prompt validates the input and asks again if it is invalid:
 ## Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](https://github.com/mazharulislamsajib01)
 
 ## License
 
